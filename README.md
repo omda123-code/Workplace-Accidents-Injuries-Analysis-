@@ -7,8 +7,8 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Charts-teal?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mohamedemad24649@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-emad-396981344)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mohamedemad24649@gmail.com)
 
 ---
 
