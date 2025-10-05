@@ -60,79 +60,79 @@ workplace-accidents-analysis/
 
 ## 📊 Key Findings  
 
-### 1️⃣ Incidents Related to Malfunction  
+### 1️. Incidents Related to Malfunction  
 ![Malfunction](charts/malfunction.png)  
 - Operations (~105), Production (~110), and Equipment (~40) dominate malfunction-related incidents.  
 
 ---
 
-### 2️⃣ Top 10 Event Descriptions  
+### 2️. Top 10 Event Descriptions  
 ![Top Event Descriptions](charts/top_event_descriptions.png)  
 - Fatal events dominate descriptions → **falls and health conditions are leading causes**.  
 
 ---
 
-### 3️⃣ Monthly Distribution of Incidents  
+### 3️. Monthly Distribution of Incidents  
 ![Monthly Distribution](charts/monthly_distribution.png)  
 - Peaks in **Jan–Mar (~680–720)**, sharp decline in summer months.  
 
 ---
 
-### 4️⃣ Incidents Involving Hazardous Substances  
+### 4️. Incidents Involving Hazardous Substances  
 ![Hazardous Substances](charts/haz_substances.png)  
 - Over **4,800 incidents had no hazardous substances involved**.  
 
 ---
 
-### 5️⃣ Incidents by Building Stories  
+### 5️. Incidents by Building Stories  
 ![Building Stories](charts/building_stories.png)  
 - Majority in **1–2 story projects (~740 combined)**.  
 
 ---
 
-### 6️⃣ Incidents by Project Type  
+### 6️. Incidents by Project Type  
 ![Project Type](charts/project_type.png)  
 - **New additions (~3600)** dominate incidents.  
 
 ---
 
-### 7️⃣ Incidents by Task Assignment  
+### 7️. Incidents by Task Assignment  
 ![Task Assignment](charts/task_assigned.png)  
 - **Routine tasks (~3000)** carry higher risks than non-routine (~1800).  
 
 ---
 
-### 8️⃣ Human Factors in Incidents  
+### 8️. Human Factors in Incidents  
 ![Human Factors](charts/human_factors.png)  
 - Major causes: **Other, Situational Awareness, Inappropriate Action**.  
 
 ---
 
-### 9️⃣ Environmental Factors  
+### 9️. Environmental Factors  
 ![Environmental Factors](charts/environmental_factors.png)  
 - Leading: **Other, Equipment/Method, Condition factors**.  
 
 ---
 
-### 🔟 Event Types Leading to Injuries  
+### 10. Event Types Leading to Injuries  
 ![Event Types](charts/event_types.png)  
 - **Falls from elevation** and **Struck-by incidents** are top risks.  
 
 ---
 
-### 1️⃣1️⃣ Most Frequently Injured Body Parts  
+### 11. Most Frequently Injured Body Parts  
 ![Body Parts](charts/body_parts.png)  
 - Most affected: **Head, Whole Body, Fingers**.  
 
 ---
 
-### 1️⃣2️⃣ Most Common Injury Types  
+### 1️2. Most Common Injury Types  
 ![Injury Types](charts/injury_types.png)  
 - Top: **Falls/Strikes (~1700)**, Broken Bones (~600), Concussions/Crushing (~700).  
 
 ---
 
-### 1️⃣3️⃣ Fatal vs Nonfatal Injuries  
+### 13. Fatal vs Nonfatal Injuries  
 ![Fatal vs Nonfatal](charts/fatal_vs_nonfatal.png)  
 - **Fatal injuries (~2900)** exceed nonfatal (~1900).  
 
@@ -154,4 +154,4 @@ workplace-accidents-analysis/
 ---
 
 ## 👤 Author  
-**Mohamed Emad Elhadi** – Data Analyst  **
+**Mohamed Emad Elhadi** – **Data Analyst**
