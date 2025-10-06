@@ -19,7 +19,7 @@ The ultimate goal is to support **data-driven decisions** in occupational safety
 The analysis process included:  
 1. **SQL Server** – Advanced queries to explore and clean the dataset.  
 2. **Python (Pandas, Seaborn, Matplotlib)** – Visual analysis and statistical insights.  
-3. **Power BI (in progress)** – An interactive dashboard for exploration.  
+3. **Power BI ** – An interactive dashboard for exploration.  
 
 ---
 
@@ -134,7 +134,24 @@ workplace-accidents-analysis/
 
 ### 13. Fatal vs Nonfatal Injuries  
 ![Fatal vs Nonfatal](charts/fatal_vs_nonfatal.png)  
-- **Fatal injuries (~2900)** exceed nonfatal (~1900).  
+- **Fatal injuries (~2900)** exceed nonfatal (~1900).
+
+---
+
+## 📊 Power BI Dashboard
+
+This project includes an **interactive Power BI dashboard** designed to analyze and visualize incidents, their causes, and impact on workers.  
+The dashboard is structured across **6 pages**, each answering a key business/stakeholder question:
+
+1️. **Overview** → High-level KPIs on total incidents, fatal vs nonfatal cases, and amputation %. Includes filters for year, project type, and task assignment.  
+2️. **Injury Types & Body Parts** → Highlights the most common injuries and affected body parts with treemaps and bar charts.  
+3️. **Event Types & Causes** → Breaks down incidents by event types, human factors, and environmental factors.  
+4️. **Projects & Building Stories** → Analyzes incidents by project type and number of building stories.  
+5️. **Trends & Seasonality** → Identifies monthly/annual patterns in incidents, with March as the peak month.  
+6️. **Detailed Descriptions** → Shows the top 10 most frequent event descriptions.  
+
+👉 The dashboard provides a **comprehensive, multi-dimensional view** to support decision-making in safety management and project planning.
+
 
 ---
 
@@ -144,12 +161,6 @@ workplace-accidents-analysis/
 3. **Enhance safety in routine tasks**, not just special/irregular jobs.  
 4. **Focus on malfunction prevention** through equipment checks and safety protocols.  
 5. **Seasonal safety campaigns** (especially in Jan–March).  
-
----
-
-## 📌 Next Steps  
-- Develop a **free interactive Power BI dashboard** (currently in progress).  
-- Add **predictive modeling** to identify high-risk conditions early.  
 
 ---
 
