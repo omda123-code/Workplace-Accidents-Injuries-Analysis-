@@ -45,7 +45,8 @@ workplace-accidents-analysis/
 │ ├── body_parts.png
 │ ├── injury_types.png
 │ ├── fatal_vs_nonfatal.png
-├── powerbi/ # in progress
+├── powerbi/ # interactive Power BI dashboard
+│ ├── Dashboard.pbix
 └── README.md # Project documentation
 ```
 ---
